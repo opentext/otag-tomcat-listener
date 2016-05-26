@@ -7,7 +7,7 @@
 
     <groupId>com.opentext.otag.tomcat</groupId>
     <artifactId>otag-tomcat-listener</artifactId>
-    <version>16</version>
+    <version>16.0.1</version>
     <packaging>jar</packaging>
 
     <name>Tomcat Listener</name>
