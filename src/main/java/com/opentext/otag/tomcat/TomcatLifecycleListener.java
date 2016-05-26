@@ -23,7 +23,8 @@ import org.apache.juli.logging.LogFactory;
  * on this mechanism.
  *
  * @author Rhys Evans rhyse@opentext.com
- * @version 16.0.0
+ * @version 16.0.1
+ * @since 16.0.0
  */
 public class TomcatLifecycleListener implements LifecycleListener {
 
