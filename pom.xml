@@ -7,12 +7,12 @@
 
     <groupId>com.opentext.otag.tomcat</groupId>
     <artifactId>otag-tomcat-listener</artifactId>
-    <version>16.0.1.1</version>
+    <version>16.1</version>
     <packaging>jar</packaging>
 
     <name>Tomcat Listener</name>
 
-    <description>Tomcat 8 is the current container of choice for the AppWorks Gateway
+    <description>Tomcat 8.0.x is the current container of choice for the AppWorks Gateway
         and this module contains any code relevant to its lifecycle, including our crucial
         TomcatLifecycleListener. The Jar file this module produces must be placed within the
         central /lib directory of the container to be effective.
